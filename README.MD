@@ -1,4 +1,4 @@
-# Chrome Dino Game
+# Chrome Dinosaur Game
 
 ![Preview](/preview.png)
 <br>
@@ -8,7 +8,7 @@
 
 It's the game you see in the Chrome Browser, when you're offline. 
 
-Made by [maxrohowsky](https://twitter.com/maxrohowsky)
+Made by SACHIN SHIVAJI BHALKE
 
 ## Table of contents
 
@@ -18,7 +18,6 @@ Made by [maxrohowsky](https://twitter.com/maxrohowsky)
 - [Controls](#controls)
 - [Libraries](#libraries)
 - [FAQ](#faq)
-- [Contact](#contact)
 
 ## YouTube Videos
 
@@ -37,7 +36,7 @@ The game gets progressively harder as the player's score increases. See how far 
 Requirements: You must have Python installed and preferably a code editor like PyCharm.
 
 1. Clone the repository 
-2. In the terminal, navigate to the directory where the repository was cloned, e.g., `C:\Users\Max\PycharmProjects\chrome-dinosaur`
+2. In the terminal, navigate to the directory where the repository was cloned, e.g., `C:\Users\Max\PycharmProjects\chrome-dinosaur-game`
 3. Create a virtual environment, activate it, and install pygame by running the following commands in the terminal:
     ```bash
     python -m venv venv #This creates a virtual environment
@@ -64,6 +63,3 @@ Requirements: You must have Python installed and preferably a code editor like P
 - How to install PyCharm and Python? [Explained Here](https://youtu.be/XsL8JDkH-ec)
 - How to set PyCharm Config. and Interpreter? [Explained Here](https://youtu.be/OajNS-WHiUI)
 
-## Contact
-
-Feel free to reach out to me [on Twitter](https://twitter.com/maxrohowsky) if you have any questions or feedback! Hope you find this useful!
